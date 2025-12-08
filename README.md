@@ -1,21 +1,64 @@
-# SysAdmin & IT Support Labs – Portfolio
+SysAdmin & IT Support Portfolio – Labs & Projects
 
-This repository contains my personal labs and hands-on practice in system administration,
-IT support, and cloud identity management. I use this space to document my progress,
-experiment with different technologies, and showcase my practical skills.
+This repository showcases my hands-on practice in system administration, IT support, cloud identity management, and virtualization.
+I use this space to document real-world troubleshooting tasks, infrastructure labs, and learning projects across Windows, Linux, Azure, and on-prem environments.
 
-## 🔧 Technologies and Skills Demonstrated
+🛠️ Technologies & Skills Demonstrated
+Windows & Infrastructure
 
-- Windows Server 2019/2022
-- Active Directory (users, groups, OU structure, GPO)
-- Azure AD / Entra ID (MFA, Conditional Access, identity management)
-- Windows 10/11 support & troubleshooting
-- Linux (Ubuntu/Debian) administration
-- Virtualization (Hyper-V, Proxmox)
-- Networking basics (DNS, DHCP, VPN, Wi-Fi)
-- Remote support tools (RDP, AnyDesk, TeamViewer)
+Windows Server 2019/2022
+
+Active Directory, Group Policy
+
+DNS / DHCP
+
+RDP, SMB, NTFS permissions
+
+Windows 10/11 troubleshooting
+
+Printer & hardware diagnostics
+
+Cloud & Identity
+
+Azure / Entra ID
+
+Intune device management
+
+Conditional Access basics
+
+MFA / SSPR configuration
+
+Virtualization
+
+Hyper-V
+
+Proxmox VE
+
+Virtual networking (vSwitch, bridges)
+
+VM deployment, snapshots, migration
+
+Linux Administration
+
+User & group management
+
+systemctl, services
+
+SSH configuration
+
+Firewalls (ufw, firewalld)
+
+Package & log management
 
 ---
+
+📁 Repository Structure
+Area	Description
+ActiveDirectory	AD labs: domain creation, users/groups, GPO, DNS/DHCP, troubleshooting
+Azure-Entra	Cloud identity labs and configurations
+Linux	Command-line practice, services, users, permissions, logs
+Virtualization	Hyper-V & Proxmox labs, VM networks, snapshots
+Windows-Troubleshooting	Real-world support cases & solutions
 
 ## 📁 Lab sections
 
@@ -58,9 +101,24 @@ User management, SSH configuration, permissions, basic service management.
 
 ---
 
+🚀 Goals of This Portfolio
+
+Demonstrate practical sysadmin & IT support skills
+
+Build structured documentation for future projects
+
+Prepare for Technical Interviews
+
+Track personal progress and learning
+
+
 ## 📌 About Me
 
 I am a freelance system administrator based in Vilnius with hands-on experience in:
 Windows support, Active Directory, Azure AD, virtualization, Linux, and networking.
 I am currently growing into a full-time IT Support / SysAdmin role.
 
+📬 Contact
+
+Aliaksei Mokhnach — SysAdmin / IT Support
+Vilnius, Lithuania
