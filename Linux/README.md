@@ -18,3 +18,6 @@ Created as part of self-study for Junior SysAdmin / HelpDesk roles.
 - Working with chmod, chown
 - Checking services and logs
 - Basic troubleshooting steps
+
+## Additional experience
+- Joined Linux machine to Active Directory using realm (basic level)
