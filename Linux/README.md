@@ -1,64 +1,20 @@
-🐧 Linux Administration Labs
+# Linux Administration Basics
 
-This section collects common Linux administration tasks and troubleshooting steps.
+This repository contains basic Linux administration exercises and notes.
+Created as part of self-study for Junior SysAdmin / HelpDesk roles.
 
-🔑 Users & Permissions
+## Topics covered
+- User and group management
+- File permissions
+- Basic networking
+- Service management (systemctl)
 
-useradd, usermod, passwd
+## Environment
+- OS: Ubuntu / Debian
+- Shell: bash
 
-groups, chown, chmod
-
-sudo configuration: /etc/sudoers
-
-🔥 Services & Systemctl
-
-Examples:
-
-systemctl status ssh
-systemctl restart nginx
-systemctl enable firewalld
-
-📦 Package Management
-
-Ubuntu / Debian:
-
-apt update
-apt install package
-
-
-RHEL / Rocky:
-
-dnf install package
-
-🧱 Firewall (ufw / firewalld)
-ufw enable
-ufw allow 22
-firewall-cmd --add-service=ssh --permanent
-
-📄 Logs & Monitoring
-journalctl -xe
-tail -f /var/log/syslog
-df -h
-top / htop
-
-🌐 Networking
-ip addr
-ip route
-nmcli d
-ping / traceroute
-
-🔒 SSH Hardening
-
-Disable root login
-
-Use key-based auth
-
-Change default port
-
-🎯 Next Tasks
-
-Add screenshots
-
-Add 1–2 full Linux projects
-
-Add bash scripts
+## What I practiced
+- Creating and managing users
+- Working with chmod, chown
+- Checking services and logs
+- Basic troubleshooting steps
