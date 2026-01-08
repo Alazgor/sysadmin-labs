@@ -6,7 +6,7 @@
 
 #code
 
-ip a
-ip route
-nmcli device status
-cat /etc/resolv.conf
+- ip a
+- ip route
+- nmcli device status
+- cat /etc/resolv.conf
